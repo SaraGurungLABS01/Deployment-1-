@@ -19,5 +19,7 @@ Branch Specification-  from */master to */main
 Click Apply and Save
 Click Build Now and its shows its completed successfully
 
-
-
+After pipeline completion, \Thenafter proceeded to next steps to "Create and Deploy a Python URL Shortener on AWS Elastic Beanstalk"
+Zipped the downloaded files and used it when deploying on AWS Elatic Beanstalk
+After following the entire step, made sure the health is OK and clicked the domain name
+Nothing broke and was was successfully running
